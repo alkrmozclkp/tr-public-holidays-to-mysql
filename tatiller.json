@@ -1,0 +1,570 @@
+[
+    {
+        "tarih": "2025-01-01",
+        "aciklama": "Yılbaşı"
+    },
+    {
+        "tarih": "2025-03-30",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2025-03-31",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2025-04-01",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2025-04-23",
+        "aciklama": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+        "tarih": "2025-05-01",
+        "aciklama": "Emek ve Dayanışma Günü"
+    },
+    {
+        "tarih": "2025-05-19",
+        "aciklama": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+        "tarih": "2025-06-06",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2025-06-07",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2025-06-08",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2025-06-09",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2025-07-15",
+        "aciklama": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+        "tarih": "2025-08-30",
+        "aciklama": "Zafer Bayramı"
+    },
+    {
+        "tarih": "2025-10-29",
+        "aciklama": "Cumhuriyet Bayramı"
+    },
+    {
+        "tarih": "2026-01-01",
+        "aciklama": "Yılbaşı"
+    },
+    {
+        "tarih": "2026-03-20",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2026-03-21",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2026-03-22",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2026-04-23",
+        "aciklama": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+        "tarih": "2026-05-01",
+        "aciklama": "Emek ve Dayanışma Günü"
+    },
+    {
+        "tarih": "2026-05-19",
+        "aciklama": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+        "tarih": "2026-05-27",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2026-05-28",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2026-05-29",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2026-05-30",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2026-07-15",
+        "aciklama": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+        "tarih": "2026-08-30",
+        "aciklama": "Zafer Bayramı"
+    },
+    {
+        "tarih": "2026-10-29",
+        "aciklama": "Cumhuriyet Bayramı"
+    },
+    {
+        "tarih": "2027-01-01",
+        "aciklama": "Yılbaşı"
+    },
+    {
+        "tarih": "2027-03-09",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2027-03-10",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2027-03-11",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2027-04-23",
+        "aciklama": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+        "tarih": "2027-05-01",
+        "aciklama": "Emek ve Dayanışma Günü"
+    },
+    {
+        "tarih": "2027-05-16",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2027-05-17",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2027-05-18",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2027-05-19",
+        "aciklama": "Atatürk'ü Anma, Gençlik ve Spor Bayramı; Kurban Bayramı"
+    },
+    {
+        "tarih": "2027-07-15",
+        "aciklama": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+        "tarih": "2027-08-30",
+        "aciklama": "Zafer Bayramı"
+    },
+    {
+        "tarih": "2027-10-29",
+        "aciklama": "Cumhuriyet Bayramı"
+    },
+    {
+        "tarih": "2028-01-01",
+        "aciklama": "Yılbaşı"
+    },
+    {
+        "tarih": "2028-02-26",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2028-02-27",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2028-02-28",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2028-04-23",
+        "aciklama": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+        "tarih": "2028-05-01",
+        "aciklama": "Emek ve Dayanışma Günü"
+    },
+    {
+        "tarih": "2028-05-05",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2028-05-06",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2028-05-07",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2028-05-08",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2028-05-19",
+        "aciklama": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+        "tarih": "2028-07-15",
+        "aciklama": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+        "tarih": "2028-08-30",
+        "aciklama": "Zafer Bayramı"
+    },
+    {
+        "tarih": "2028-10-29",
+        "aciklama": "Cumhuriyet Bayramı"
+    },
+    {
+        "tarih": "2029-01-01",
+        "aciklama": "Yılbaşı"
+    },
+    {
+        "tarih": "2029-02-14",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2029-02-15",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2029-02-16",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2029-04-23",
+        "aciklama": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+        "tarih": "2029-04-24",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2029-04-25",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2029-04-26",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2029-04-27",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2029-05-01",
+        "aciklama": "Emek ve Dayanışma Günü"
+    },
+    {
+        "tarih": "2029-05-19",
+        "aciklama": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+        "tarih": "2029-07-15",
+        "aciklama": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+        "tarih": "2029-08-30",
+        "aciklama": "Zafer Bayramı"
+    },
+    {
+        "tarih": "2029-10-29",
+        "aciklama": "Cumhuriyet Bayramı"
+    },
+    {
+        "tarih": "2030-01-01",
+        "aciklama": "Yılbaşı"
+    },
+    {
+        "tarih": "2030-02-04",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2030-02-05",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2030-02-06",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2030-04-13",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2030-04-14",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2030-04-15",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2030-04-16",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2030-04-23",
+        "aciklama": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+        "tarih": "2030-05-01",
+        "aciklama": "Emek ve Dayanışma Günü"
+    },
+    {
+        "tarih": "2030-05-19",
+        "aciklama": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+        "tarih": "2030-07-15",
+        "aciklama": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+        "tarih": "2030-08-30",
+        "aciklama": "Zafer Bayramı"
+    },
+    {
+        "tarih": "2030-10-29",
+        "aciklama": "Cumhuriyet Bayramı"
+    },
+    {
+        "tarih": "2031-01-01",
+        "aciklama": "Yılbaşı"
+    },
+    {
+        "tarih": "2031-01-24",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2031-01-25",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2031-01-26",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2031-04-02",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2031-04-03",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2031-04-04",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2031-04-05",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2031-04-23",
+        "aciklama": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+        "tarih": "2031-05-01",
+        "aciklama": "Emek ve Dayanışma Günü"
+    },
+    {
+        "tarih": "2031-05-19",
+        "aciklama": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+        "tarih": "2031-07-15",
+        "aciklama": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+        "tarih": "2031-08-30",
+        "aciklama": "Zafer Bayramı"
+    },
+    {
+        "tarih": "2031-10-29",
+        "aciklama": "Cumhuriyet Bayramı"
+    },
+    {
+        "tarih": "2032-01-01",
+        "aciklama": "Yılbaşı"
+    },
+    {
+        "tarih": "2032-01-14",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2032-01-15",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2032-01-16",
+        "aciklama": "Ramazan Bayramı"
+    },
+    {
+        "tarih": "2032-03-22",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2032-03-23",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2032-03-24",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2032-03-25",
+        "aciklama": "Kurban Bayramı"
+    },
+    {
+        "tarih": "2032-04-23",
+        "aciklama": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+        "tarih": "2032-05-01",
+        "aciklama": "Emek ve Dayanışma Günü"
+    },
+    {
+        "tarih": "2032-05-19",
+        "aciklama": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+        "tarih": "2032-07-15",
+        "aciklama": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+        "tarih": "2032-08-30",
+        "aciklama": "Zafer Bayramı"
+    },
+    {
+        "tarih": "2032-10-29",
+        "aciklama": "Cumhuriyet Bayramı"
+    },
+    {
+        "tarih": "2033-01-01",
+        "aciklama": "Yılbaşı"
+    },
+    {
+        "tarih": "2033-01-02",
+        "aciklama": "Ramazan Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2033-01-03",
+        "aciklama": "Ramazan Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2033-01-04",
+        "aciklama": "Ramazan Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2033-03-11",
+        "aciklama": "Kurban Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2033-03-12",
+        "aciklama": "Kurban Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2033-03-13",
+        "aciklama": "Kurban Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2033-03-14",
+        "aciklama": "Kurban Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2033-04-23",
+        "aciklama": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+        "tarih": "2033-05-01",
+        "aciklama": "Emek ve Dayanışma Günü"
+    },
+    {
+        "tarih": "2033-05-19",
+        "aciklama": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+        "tarih": "2033-07-15",
+        "aciklama": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+        "tarih": "2033-08-30",
+        "aciklama": "Zafer Bayramı"
+    },
+    {
+        "tarih": "2033-10-29",
+        "aciklama": "Cumhuriyet Bayramı"
+    },
+    {
+        "tarih": "2033-12-23",
+        "aciklama": "Ramazan Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2033-12-24",
+        "aciklama": "Ramazan Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2033-12-25",
+        "aciklama": "Ramazan Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2034-01-01",
+        "aciklama": "Yılbaşı"
+    },
+    {
+        "tarih": "2034-03-01",
+        "aciklama": "Kurban Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2034-03-02",
+        "aciklama": "Kurban Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2034-03-03",
+        "aciklama": "Kurban Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2034-03-04",
+        "aciklama": "Kurban Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2034-04-23",
+        "aciklama": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+        "tarih": "2034-05-01",
+        "aciklama": "Emek ve Dayanışma Günü"
+    },
+    {
+        "tarih": "2034-05-19",
+        "aciklama": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+    },
+    {
+        "tarih": "2034-07-15",
+        "aciklama": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+        "tarih": "2034-08-30",
+        "aciklama": "Zafer Bayramı"
+    },
+    {
+        "tarih": "2034-10-29",
+        "aciklama": "Cumhuriyet Bayramı"
+    },
+    {
+        "tarih": "2034-12-12",
+        "aciklama": "Ramazan Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2034-12-13",
+        "aciklama": "Ramazan Bayramı (tahmini)"
+    },
+    {
+        "tarih": "2034-12-14",
+        "aciklama": "Ramazan Bayramı (tahmini)"
+    }
+]
