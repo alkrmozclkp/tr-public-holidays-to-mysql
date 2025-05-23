@@ -1,0 +1,17 @@
+version: '3.8' # Docker Compose dosya formatının versiyonu
+
+services:
+  mysql:
+    image: mysql:latest 
+    container_name: tr-holidays-mysql-db 
+    environment: 
+      MYSQL_ROOT_PASSWORD: kerem
+      MYSQL_DATABASE: tr_public_holidays 
+    ports:
+      - "8080:3306" 
+    networks:
+      - mysql_network
+
+networks:
+  mysql_network:
+    driver: bridge
